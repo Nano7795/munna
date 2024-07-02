@@ -1,0 +1,27 @@
+Codename: termux
+Version: 1
+Architectures: all
+Description: kala repository
+Suite: kala
+Date: Tue, 02 Jul 2024 14:54:36 UTC
+Components: sala
+MD5Sum:
+ 1c1ca300c8ba17429ef08950e0932a02 983 sala/binary-all/Packages
+ 4a05294a86c84f45d379bf90effb8781 636 sala/binary-all/Packages.xz
+ 14a4ea38de184a62bb22149fd67764b3 173 sala/Contents-all
+ 7bc48a26da662a92db3cd80f90338492 120 sala/Contents-all.xz
+SHA1:
+ a7cccc350af75b42e2958546b839a6a9df8c514d 983 sala/binary-all/Packages
+ cf8a2e5666a30d93f81b435c16c326a619c8b0e1 636 sala/binary-all/Packages.xz
+ f0a233c87ab737b7ac9bc99193049bae06e46d4d 173 sala/Contents-all
+ ee22eb70577ffa09f41af4781bd65711ef1b3889 120 sala/Contents-all.xz
+SHA256:
+ 0757edce9eba4eacf16cc531f1c36aaabc0be299debd7fde71b13d7b1a816a9e 983 sala/binary-all/Packages
+ b21582128dd51b859513721ca21f6076ce18beec2e471999521ba9d4a24bad6f 636 sala/binary-all/Packages.xz
+ 133389c28cf0c1f83e95ea9ddba203e5c264ccf2b6e29e2cdbba575b3c180c58 173 sala/Contents-all
+ d21efba1ea76651615d312d46cd46a3157de48970cb4aff2950eebd2d4334dd6 120 sala/Contents-all.xz
+SHA512:
+ 6a2d7a2475e7049138e388a62f3053f4f66c5f86e097654800ed7ac849382479fd0805cfee78d454fba10ee7aacf5dc3fd71142dd56b68b396ffc58eb9499be6 983 sala/binary-all/Packages
+ cefb08b48db5899367a922f32945a36e0b6e4a3ca245131e7cc984489d19518efbef4c4a502c79e496c0b803a9d7c18b7fde11e13139af7327c4bf2c2074c321 636 sala/binary-all/Packages.xz
+ 58bd053edda3742b2ad8b63e47140ecd2211b19415b4368b9f6a9024abf73a78a62576ea997e3b279892b0454d0a829ef46d490f4ca6487f701e768f00db7179 173 sala/Contents-all
+ f638701a8b5cb0b748fd462948b1972371d35942f08d97b8bf60b5c913785ebfc7cd712bbe7e438b92bffd4cea776ea57359a25f8ceea6d8df1295cd191d0bb2 120 sala/Contents-all.xz
